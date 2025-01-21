@@ -4,4 +4,5 @@ main(){
     printf("Hello world");
     int a = 1;
     int b = a+1;
+    print("Day la Hung dep trai");
 }
